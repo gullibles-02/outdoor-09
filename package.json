@@ -1,10 +1,13 @@
 {
-  "name": "KnRHVpVVpggqurox0sSifi2wEVXfKuUiJtFVhlDDcK7ilK2u5g",
+  "name": "หวยลาวล่าสุด มีคำตอบ - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "หวยลาวล่าสุด ชุดเด่น ของ หวยลาวล่าสุด 77Lotto หวยออนไลน์ อันดับหนึ่ง 5 หวยลาวล่าสุด จับเข้าชุดเลข 3 ตัว และ 2 ตัว ได้ดังนี้195-159-951-915-519-591325-352-2",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": ["หวยลาวล่าสุด","หวยลาวล่าสุด 77Lotto"],
+  "keywords": [
+    "หวยลาวล่าสุด",
+    "หวยลาวล่าสุด 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
