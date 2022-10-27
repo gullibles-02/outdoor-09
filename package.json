@@ -1,10 +1,18 @@
 {
-  "name": "uNbevqbxfHCmifhR0xL4Ol1MbHGyLlZzvkP2X1tYpmqeln9QG5",
+  "name": "หวย 3 ตัวตรง-โต๊ด เลือกยังไง - เว็บใหม่ kerry899 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.43",
   "description": "หวย 3 ตัวตรง-โต๊ด เลขเด็ดงวดนี้ หาก หวย 3 ตัวตรง-โต๊ด Kerry899 หวยออนไลน์ อันดับหนึ่ง เว็บไซต์หวยไทยขอนำเสนอชุดเลขจาก หวยใบชมพู 1462 สูตรคำนวณใหม่ แนวทางเล",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": ["หวย 3 ตัวตรง-โต๊ด","หวย","3","ตัวตรง-โต๊ด","หวย Kerry899","3 Kerry899","ตัวตรง-โต๊ด Kerry899"],
+  "keywords": [
+    "หวย 3 ตัวตรง-โต๊ด",
+    "หวย",
+    "3",
+    "ตัวตรง-โต๊ด",
+    "หวย Kerry899",
+    "3 Kerry899",
+    "ตัวตรง-โต๊ด Kerry899"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
