@@ -1,10 +1,13 @@
 {
-  "name": "qY2OljznfZRNzntUyiSFQQa8qulB9u9LmI8fXjrsrvoiVmGcPU",
+  "name": "สถิติหวยออกปี62 มีคำตอบ - เว็บใหม่ cat888 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.27",
   "description": "สถิติหวยออกปี62 เลขเด็ดที่เว็บไซต์หวยไทยของเราจะนำเสนอเป็นแนวทางสลากกินแบ่งรัฐบาล ด้วย สถิติหวยออกปี62 Cat888 หวยออนไลน์ อันดับหนึ่ง หรือ หวยรัฐบาล งวดวันท",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": ["สถิติหวยออกปี62","สถิติหวยออกปี62 Cat888"],
+  "keywords": [
+    "สถิติหวยออกปี62",
+    "สถิติหวยออกปี62 Cat888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
