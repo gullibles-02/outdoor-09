@@ -1,10 +1,13 @@
 {
-  "name": "4oeGpobL9FQzcVJ2GXMRIbroxL6vT0yXybgOLeG1twWwJLDSr1",
+  "name": "fox88888 เล่นยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "Fox88888 เลขวิ่ง หาก Fox88888 Huaylike หวยออนไลน์ อันดับหนึ่ง Fox88888 2 ตัวล่างเป็นการเดิมพันตัวเลขแบบ 1 ตัวในพิกัดเลขล่าง",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": ["FOX88888","FOX88888 Huaylike"],
+  "keywords": [
+    "FOX88888",
+    "FOX88888 Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
