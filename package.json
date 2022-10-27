@@ -1,10 +1,13 @@
 {
-  "name": "yS4TadGUKx8mMDQwp35086cvGUcPndsPR6un8PDfoGiZclcG9S",
+  "name": "กบไชโยทอด ดูยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "กบไชโยทอด หลังจากที่เราทราบถึงช่วงเวลา ต่อ กบไชโยทอด Ruay หวยออนไลน์ อันดับหนึ่ง อัตราจ่ายและวิธีการตรวจผลของหวยหุ้นนิเคอิแล้ว การเลือกซื้อหวยหุ้นชนิดนี้ ก",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": ["กบไชโยทอด","กบไชโยทอด Ruay"],
+  "keywords": [
+    "กบไชโยทอด",
+    "กบไชโยทอด Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
