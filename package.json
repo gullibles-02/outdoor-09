@@ -1,26 +1,10 @@
 {
-  "name": "เว ป มา เบ ท ชั ว แตกต่างกันอย่างไร - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "1Jt468nA3vNr4qSmbPGpdt9KmFBXsObH4ljtCbSO8NxgYVj1IA",
   "theme": "syntax",
   "version": "1.0.23",
   "description": "เว ป มา เบ ท ชั ว สำหรับ หรือ เว ป มา เบ ท ชั ว Huay หวย หวยออนไลน์ มีหวยทุกชนิด หวยหุ้นดาวโจนส์ คอหวยหุ้น น่าจะเคยได้ยิน และรู้จักเป็นอย่างดีอยู่แล้ว แต่บ",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": [
-    "เว ป มา เบ ท ชั ว",
-    "เว",
-    "ป",
-    "มา",
-    "เบ",
-    "ท",
-    "ชั",
-    "ว",
-    "เว Huay",
-    "ป Huay",
-    "มา Huay",
-    "เบ Huay",
-    "ท Huay",
-    "ชั Huay",
-    "ว Huay"
-  ],
+  "keywords": ["เว ป มา เบ ท ชั ว","เว","ป","มา","เบ","ท","ชั","ว","เว Huay","ป Huay","มา Huay","เบ Huay","ท Huay","ชั Huay","ว Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
