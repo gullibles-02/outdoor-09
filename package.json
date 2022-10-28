@@ -1,18 +1,10 @@
 {
-  "name": "หวยหุ้น จีน pantip ดูยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "nflifRHzZqlFM4RJs4jqIGsLw1hvBUWQxB9bsTfxnYCNeyooVe",
   "theme": "syntax",
   "version": "1.0.71",
   "description": "หวยหุ้น จีน pantip การจ่ายเงินของเจ้ามือ โดย หวยหุ้น จีน pantip Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด Lottotao ระบบจะจ่ายเงินเมื่อถูกรางวัลเองโดยที่ไม่ต้อง",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": [
-    "หวยหุ้น จีน PANTIP",
-    "หวยหุ้น",
-    "จีน",
-    "PANTIP",
-    "หวยหุ้น Huaysod",
-    "จีน Huaysod",
-    "PANTIP Huaysod"
-  ],
+  "keywords": ["หวยหุ้น จีน PANTIP","หวยหุ้น","จีน","PANTIP","หวยหุ้น Huaysod","จีน Huaysod","PANTIP Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
