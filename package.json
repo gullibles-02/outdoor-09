@@ -1,10 +1,16 @@
 {
-  "name": "YwfTZOR4tN7UCUp1qLaEFlu0MNSF52L7sdqMNSDC6tqek8h2xV",
+  "name": "ซื้อหวยออนไลน์ ruay ทำไมถึงนิยม - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.69",
   "description": "ซื้อหวยออนไลน์ ruay สถิติการออกรางวัล หรือ ซื้อหวยออนไลน์ ruay ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง หวยหุ้นไทย 10 งวดย้อนหลัง วันนี้เราได้พาทุกท่านไปตร",
   "repository": "https://github.com/gullibles-02/outdoor-09",
-  "keywords": ["ซื้อหวยออนไลน์ RUAY","ซื้อหวยออนไลน์","RUAY","ซื้อหวยออนไลน์ Thailotto","RUAY Thailotto"],
+  "keywords": [
+    "ซื้อหวยออนไลน์ RUAY",
+    "ซื้อหวยออนไลน์",
+    "RUAY",
+    "ซื้อหวยออนไลน์ Thailotto",
+    "RUAY Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
